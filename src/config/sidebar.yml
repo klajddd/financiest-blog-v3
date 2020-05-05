@@ -1,0 +1,19 @@
+- label: "FINANCIEST"
+  link: "/"
+- label: Algorithms
+  items:
+    - label: "Breadth first search"
+      link: "/breadth_first_search"
+    - label: "Depth first search"
+      link: "/depth_first_search"
+    - label: "Selection sort"
+      link: "/selection_sort"
+    - label: "Quick sort"
+      link: "/quick_sort"
+- label: Finance
+  items:
+    - label: "Futures vs forward contracts"
+      link: "/futures_vs_forward_contracts"
+# - label: Finance
+#   items:
+
