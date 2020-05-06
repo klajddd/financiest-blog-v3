@@ -1,6 +1,6 @@
 - label: "FINANCIEST"
   link: "/"
-- label: Algorithms
+- label: Algorithms & Data Structures
   items:
     - label: "Breadth first search"
       link: "/breadth_first_search"
@@ -8,6 +8,8 @@
       link: "/depth_first_search"
     - label: "Selection sort"
       link: "/selection_sort"
+    - label: "Singly linked list"
+      link: "/singly_linked_list"
     - label: "Quick sort"
       link: "/quick_sort"
 - label: Finance
